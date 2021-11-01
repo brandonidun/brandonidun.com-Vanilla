@@ -143,12 +143,7 @@ h4 {
 }
 
 .social-icon img {
-  width: 30px;
-}
-
-#social-ads {
-  display: flex;
-  flex-direction: row;
+  width: 40px;
 }
 
 .animateIn {
